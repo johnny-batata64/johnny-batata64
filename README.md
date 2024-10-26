@@ -1,13 +1,12 @@
 <h1 align="center">Olá pessoal! Meu nome é Johnny👋 </h1>
-<h3 align="center">🚀 Developer FullStack | amante da arte de transformar café em código  🚀</h3>
+<h3 align="center">🚀 Developer FullStack🚀</h3>
 <div> 
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://i.pinimg.com/originals/70/59/50/705950ed634a123e86940ed9c67ee2ee.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mim </h3>
-  <p>Atualmente sou estudante de programação da <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> e procuro evoluir dia-a-dia para me tornar um desenvolvedor melhor. Escolhi estudar Desenvolvimento Web, pois é uma área que estimula a criatividade e sempre há novos desafios para solucionar e coisas novas para aprender.</p>
+  <p>Comecei a me interessar com programação através de brincadeiras com sites de notícias, comecei a estudar na trybe e hoje tenho mais de 2 anos de experiência na área.</p>
 
-  - 🤔 &nbsp; Quero me especializar em criar aplicações cada vez mais performaticas e melhores.
-  - 🎓 &nbsp; Atualmente estou estudando sobre Typescript e firebase.
+  - 🎓 &nbsp; Atualmente estou estudando sobre Node-Red e Automation Anywhere.
   - 📫 **johnny.arguello007@gmail.com**
 </div> 
 </div>
@@ -23,7 +22,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="express" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="express" width="60" height="60"/>
+  
 
   <p>
 
